@@ -24,6 +24,6 @@ I'm a data enthusiast passionate to be Data Analyst, Data Engineer, and Data Sci
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📫 How to reach me 
+## 📫 How To Reach Me
 - [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
 - [Email](bagusrifky7@gmail.com)
