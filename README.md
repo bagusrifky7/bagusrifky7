@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Bagus Rifky Riyanto 
 
 ## 🚀 About Me
-I'm a data enthusiast passionate to be Data Analyst, Data Engineer, and Data Scientist. I enjoy uncovering hidden insights through dashboards, statistical analysis, and storytelling that drives smarter decisions. I’m also passionate about building robust data pipelines and scalable systems that empower analytics at scale.
+I'm a data enthusiast passionate to be Data Analyst, Data Engineer, and Data Scientist. I enjoy uncovering hidden insights through dashboards, statistical analysis, and storytelling that drives smarter decisions. I’m also passionate about building robust data pipelines and scalable data warehouse and data lake.
 
 ## 🚀 What I'm into
 - 🧠 Data Analytics and Uncovering Business insight
