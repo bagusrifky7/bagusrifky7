@@ -10,7 +10,6 @@ I'm a data enthusiast passionate to be Data Analyst, Data Engineer, and Data Sci
 - 🛠️ Pipeline Orchestration 
 - ☁️ Cloud Platforms
 - 💾 Designing efficient ETL workflows and data models for analytics
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
