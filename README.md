@@ -1,12 +1,11 @@
 # Hi there 👋, I'm Bagus Rifky Riyanto
 ## 🚀 About Me
-I'm a **Backend Developer, AI/ML Engineer, and DevOps Engineer** who builds systems that don't just work in a notebook — they run in production. I design backend services, orchestrate AI agent pipelines, and own the infrastructure that keeps them reliable, observable, and scalable.
+I'm a **Backend Engineer and DevSecOps** who builds systems that don't just work in a notebook — they run in production. I design backend services, orchestrate AI agent pipelines, and own the infrastructure that keeps them reliable, observable, and scalable.
 
 ## 🚀 What I'm into
 - 🏗️ System Design – Architecting scalable, fault-tolerant systems: service boundaries, data flow, caching, and trade-offs that hold up under real load.
 - ⚙️ Backend Engineering – Designing and building robust APIs and services (Python async frameworks, microservices, event-driven architectures).
 - 🤖 AI Agents & Orchestration – Designing, building, and deploying RAG pipelines and intelligent agents that streamline real workflows.
-- 🧠 Machine Learning & Deployment – Training and shipping ML models into production, with an eye on real-world reliability over benchmark scores.
 - 🐳 DevOps & Infrastructure – Containerization, CI/CD pipelines, and infrastructure automation across on-prem and cloud environments.
 - 📈 Observability & Monitoring – Instrumenting systems with logging, tracing, and metrics so problems get caught before they become incidents.
 - 🛠️ Pipeline Orchestration – Automating ETL/ELT workflows for scalable, maintainable data systems.
