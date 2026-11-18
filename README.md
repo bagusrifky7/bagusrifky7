@@ -1,7 +1,7 @@
 # Hi there, I'm Bagus Rifky Riyanto
 
 ## About Me
-I'm a **Software Engineer** who designs systems end to end: from service boundaries and data models to APIs, frontends, and the pipelines that ship them. I build backend services in Python and TypeScript, orchestrate AI agent workflows, and own the infrastructure (DevSecOps) that keeps everything reliable, observable, and scalable.
+I'm a **Software Engineer and DevSecOps** who designs systems end to end: from service boundaries and data models to APIs, frontends, and the pipelines that ship them. I build backend services in Python and TypeScript, orchestrate AI agent workflows, and own the infrastructure (DevSecOps) that keeps everything reliable, observable, and scalable.
 
 ## What I'm into
 - **System Design** – Architecting scalable, fault-tolerant systems: service boundaries, data flow, caching, queues, consistency, and trade-offs that hold up under real load.
