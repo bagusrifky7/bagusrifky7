@@ -9,9 +9,8 @@ I'm a **Software Engineer and DevSecOps** who designs systems end to end: from s
 - **Full-Stack Development** – Shipping production UIs with **Next.js** and React (TypeScript, TanStack Query, Tailwind CSS), wired cleanly to the services behind them.
 - **AI Agents & Orchestration** – Building and deploying RAG pipelines and intelligent agents that streamline real workflows.
 - **DevOps & Infrastructure** – Containerization, CI/CD pipelines, and infrastructure automation across on-prem and cloud environments.
-- **Observability & Reliability** – Logging, tracing, and metrics so problems get caught before they become incidents.
+- **Observability & Reliability** – Logging, tracing, and metrics built on the Elastic Stack (Elasticsearch, Logstash, Kibana), so problems get caught before they become incidents.
 - **Pipeline Orchestration** – Automating ETL/ELT workflows for scalable, maintainable data systems.
-- **Cloud & MLOps** – GCP and AWS for ML model hosting, lifecycle management, and Kubernetes-based deployment.
 
 ## Tech Stack
 
@@ -35,7 +34,9 @@ I'm a **Software Engineer and DevSecOps** who designs systems end to end: from s
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -53,5 +54,5 @@ I'm a **Software Engineer and DevSecOps** who designs systems end to end: from s
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## How To Reach Me
-- [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+- [LinkedIn](www.linkedin.com/in/bagusrifkyriyanto)
 - [Email](mailto:bagusrifky7@gmail.com)
